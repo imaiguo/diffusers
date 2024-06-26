@@ -44,5 +44,5 @@ pipeline("An image of a squirrel in Picasso style").images[0]
 启动丘比特
 ```bash
 > jupyter notebook
-> jupyter notebook --no-browser --port 8501 --ip=192.168.2.200
+> jupyter notebook --no-browser --port 7000 --ip=192.168.2.200
 ```
